@@ -1,0 +1,13 @@
+{
+    "name": "my-webapp",
+    "version": "1.0.0",
+    "description": "Kubernetes demo app",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "test": "node --test"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }

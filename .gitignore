@@ -1,0 +1,6 @@
+node_modules/
+node_modules       # будут установлены внутри контейнера
+.git               # история git не нужна в образе
+.github
+*.md
+.dockerignore
